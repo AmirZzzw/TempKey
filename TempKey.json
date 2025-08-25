@@ -1,23 +1,20 @@
 [
     {
-        "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
+        "device_id": "9da45c393801cab5",
+        "key": "key1",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
+        "device_id": "9da45c393801cab5",
+        "key": "key2",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
     {
         "device_id": "9da45c393801cab5",
-        "username": "Amir",
-        "password": "Sx",
-        "expirydate": "27-08-2025",
+        "key": "AmirSx",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     }
 ]
