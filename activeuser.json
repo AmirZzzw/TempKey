@@ -10,5 +10,11 @@
         "key": "Arian",
         "expirydate": "30-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0ef1de16b5e208f7",
+        "key": "GhosT",
+        "expirydate": "30-12-9999",
+        "Allowoffline": true
     }
 ]
