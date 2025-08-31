@@ -1,12 +1,6 @@
 [
     {
         "device_id": "9da45c393801cab5",
-        "key": "key1",
-        "expirydate": "31-1-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "9da45c393801cab5",
         "key": "key2",
         "expirydate": "15-06-2025",
         "Allowoffline": false
