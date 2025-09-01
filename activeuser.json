@@ -22,5 +22,11 @@
         "key": "Abba3",
         "expirydate": "30-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "t",
+        "key": "t",
+        "expirydate": "t",
+        "Allowoffline": false
     }
 ]
