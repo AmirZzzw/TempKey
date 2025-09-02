@@ -28,5 +28,11 @@
         "key": "Javad",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e0c2ccdd6b20b57c",
+        "key": "Arian",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
