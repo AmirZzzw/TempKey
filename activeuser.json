@@ -22,5 +22,11 @@
         "key": "aboly",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "54616ae4290485c4",
+        "key": "Javad",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
