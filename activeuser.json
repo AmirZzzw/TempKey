@@ -34,5 +34,11 @@
         "key": "Arian",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "786b6c0776bd49a7",
+        "key": "Xpact",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
