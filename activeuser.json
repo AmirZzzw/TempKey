@@ -70,5 +70,11 @@
     "key": "test30",
     "expirydate": "12-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "test99",
+    "key": "test99",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
