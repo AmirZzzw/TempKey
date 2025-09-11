@@ -58,5 +58,11 @@
     "key": "amirtest",
     "expirydate": "12-09-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9da45c393801cab5",
+    "key": "Djhx",
+    "expirydate": "12-09-2025",
+    "Allowoffline": false
   }
 ]
