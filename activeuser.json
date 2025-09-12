@@ -88,5 +88,11 @@
     "key": "Sepehr",
     "expirydate": "12-09-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "@amir_alone02",
+    "key": "7317698392",
+    "expirydate": "13-09-2025",
+    "Allowoffline": false
   }
 ]
