@@ -82,5 +82,11 @@
     "key": "Skaonensa12",
     "expirydate": "13-09-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "77502253070",
+    "key": "POWER",
+    "expirydate": "14-09-2025",
+    "Allowoffline": false
   }
 ]
