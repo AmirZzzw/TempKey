@@ -76,11 +76,5 @@
         "key": "Amir",
         "expirydate": "13-09-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "نن",
-        "key": "نن",
-        "expirydate": "12-09-2025",
-        "Allowoffline": false
     }
 ]
