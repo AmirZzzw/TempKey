@@ -82,5 +82,11 @@
     "key": "@amir_alone02",
     "expirydate": "12-09-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Device ID",
+    "key": "Sepehr",
+    "expirydate": "12-09-2025",
+    "Allowoffline": false
   }
 ]
