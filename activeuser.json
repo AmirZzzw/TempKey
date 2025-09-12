@@ -76,5 +76,11 @@
     "key": "Jjsc",
     "expirydate": "12-09-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7317698392",
+    "key": "@amir_alone02",
+    "expirydate": "12-09-2025",
+    "Allowoffline": false
   }
 ]
