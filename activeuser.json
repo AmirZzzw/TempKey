@@ -52,5 +52,11 @@
     "key": "omid",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "SNAX",
+    "key": "SNAX",
+    "expirydate": "15-09-2025",
+    "Allowoffline": false
   }
 ]
