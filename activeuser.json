@@ -1,62 +1,68 @@
 [
-    {
-        "device_id": "0ef1de16b5e208f7",
-        "key": "GhosT",
-        "expirydate": "30-12-9999",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "fc1fce47f757e68d",
-        "key": "AliTK",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9da45c393801cab5",
-        "key": "AmirSx",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "624f346e471c0637",
-        "key": "aboly",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "54616ae4290485c4",
-        "key": "Javad",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "e0c2ccdd6b20b57c",
-        "key": "Arian",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "786b6c0776bd49a7",
-        "key": "Xpact",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "beb0c83d9d7b177e",
-        "key": "Ninja",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ad6288233c515fd0",
-        "key": "omid",
-        "expirydate": "31-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c25291171e0cd27f",
-        "key": "SNAX",
-        "expirydate": "15-09-2025",
-        "Allowoffline": false
-    }
+  {
+    "device_id": "0ef1de16b5e208f7",
+    "key": "GhosT",
+    "expirydate": "30-12-9999",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "fc1fce47f757e68d",
+    "key": "AliTK",
+    "expirydate": "30-12-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "9da45c393801cab5",
+    "key": "AmirSx",
+    "expirydate": "30-12-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "624f346e471c0637",
+    "key": "aboly",
+    "expirydate": "30-12-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "54616ae4290485c4",
+    "key": "Javad",
+    "expirydate": "30-12-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "e0c2ccdd6b20b57c",
+    "key": "Arian",
+    "expirydate": "30-12-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "786b6c0776bd49a7",
+    "key": "Xpact",
+    "expirydate": "30-12-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "beb0c83d9d7b177e",
+    "key": "Ninja",
+    "expirydate": "30-12-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "ad6288233c515fd0",
+    "key": "omid",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "c25291171e0cd27f",
+    "key": "SNAX",
+    "expirydate": "15-09-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "cd86d77502253070",
+    "key": "POWERAM",
+    "expirydate": "21-09-2025",
+    "Allowoffline": false
+  }
 ]
