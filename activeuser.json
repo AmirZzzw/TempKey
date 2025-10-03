@@ -82,5 +82,11 @@
     "key": "Y",
     "expirydate": "28-09-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7a62e7fcba60270e",
+    "key": "AMIR",
+    "expirydate": "04-10-2025",
+    "Allowoffline": false
   }
 ]
