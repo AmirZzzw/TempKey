@@ -54,12 +54,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "c25291171e0cd27f",
-        "key": "SNAX",
-        "expirydate": "15-09-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "aa73011daad11815",
         "key": "test",
         "expirydate": "30-12-9999",
