@@ -94,5 +94,11 @@
     "key": "DANIAL 0099",
     "expirydate": "08-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5c30693e3fe0e1f0",
+    "key": "DANIAL9988",
+    "expirydate": "08-10-2025",
+    "Allowoffline": false
   }
 ]
