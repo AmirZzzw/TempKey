@@ -82,5 +82,11 @@
     "key": "5s",
     "expirydate": "08-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "دی وایس چیه",
+    "key": "dani",
+    "expirydate": "08-10-2025",
+    "Allowoffline": false
   }
 ]
