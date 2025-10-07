@@ -100,5 +100,11 @@
     "key": "DANIAL9988",
     "expirydate": "08-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "وو",
+    "key": "وو",
+    "expirydate": "08-10-2025",
+    "Allowoffline": false
   }
 ]
