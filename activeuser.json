@@ -100,5 +100,11 @@
     "key": "ABOLa4586",
     "expirydate": "08-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ABOLa4586",
+    "key": "@Zybatt",
+    "expirydate": "08-10-2025",
+    "Allowoffline": false
   }
 ]
