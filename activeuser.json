@@ -64,5 +64,11 @@
     "key": "Ali PRO",
     "expirydate": "08-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1ca099a2043f6808",
+    "key": "Taha",
+    "expirydate": "08-10-2025",
+    "Allowoffline": false
   }
 ]
