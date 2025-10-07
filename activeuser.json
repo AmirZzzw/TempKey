@@ -112,5 +112,11 @@
     "key": "REZA10",
     "expirydate": "08-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "@Parisacom1",
+    "key": "Parisacom1",
+    "expirydate": "08-10-2025",
+    "Allowoffline": false
   }
 ]
