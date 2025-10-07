@@ -136,5 +136,11 @@
     "key": "ggsksnsbmm",
     "expirydate": "14-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9fde8c73875993ca",
+    "key": "v.weday",
+    "expirydate": "09-10-2025",
+    "Allowoffline": false
   }
 ]
