@@ -148,5 +148,11 @@
     "key": "danial9966",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "210066767482",
+    "key": "210066767482",
+    "expirydate": "09-10-2025",
+    "Allowoffline": false
   }
 ]
