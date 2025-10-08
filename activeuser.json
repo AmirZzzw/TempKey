@@ -178,5 +178,11 @@
     "key": "@mamad_mgs",
     "expirydate": "09-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/support",
+    "key": "/support",
+    "expirydate": "09-10-2025",
+    "Allowoffline": false
   }
 ]
