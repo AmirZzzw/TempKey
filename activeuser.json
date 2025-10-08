@@ -160,5 +160,11 @@
     "key": "hhfxgjhfc",
     "expirydate": "09-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2ef7aad46c5740af",
+    "key": "Xenon",
+    "expirydate": "09-10-2025",
+    "Allowoffline": false
   }
 ]
