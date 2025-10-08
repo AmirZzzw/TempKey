@@ -172,5 +172,11 @@
     "key": "mahyar1390",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "خخخ",
+    "key": "@mamad_mgs",
+    "expirydate": "09-10-2025",
+    "Allowoffline": false
   }
 ]
