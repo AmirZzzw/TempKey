@@ -154,5 +154,11 @@
     "key": "ALIRAZA",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/info",
+    "key": "danial",
+    "expirydate": "10-10-2025",
+    "Allowoffline": false
   }
 ]
