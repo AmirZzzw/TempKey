@@ -160,5 +160,11 @@
     "key": "danial",
     "expirydate": "10-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "A06",
+    "key": "9433156263",
+    "expirydate": "11-10-2025",
+    "Allowoffline": false
   }
 ]
