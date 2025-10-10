@@ -172,5 +172,11 @@
     "key": "Miyuu",
     "expirydate": "11-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e2cfd01dacb3b444",
+    "key": "Onimiyuu",
+    "expirydate": "11-10-2025",
+    "Allowoffline": false
   }
 ]
