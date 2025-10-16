@@ -202,5 +202,11 @@
     "key": "MAMADIO",
     "expirydate": "18-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": ".",
+    "key": "تت",
+    "expirydate": "18-10-2025",
+    "Allowoffline": false
   }
 ]
