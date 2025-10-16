@@ -82,5 +82,11 @@
     "key": "Ali",
     "expirydate": "18-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "60104db2606c29dc",
+    "key": "Dadash Ali",
+    "expirydate": "18-10-2025",
+    "Allowoffline": false
   }
 ]
