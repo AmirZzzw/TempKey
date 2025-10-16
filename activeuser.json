@@ -196,5 +196,11 @@
     "key": "Sjsbsvsksjsc",
     "expirydate": "16-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1ca099a2043f6808",
+    "key": "MAMADIO",
+    "expirydate": "18-10-2025",
+    "Allowoffline": false
   }
 ]
