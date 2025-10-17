@@ -118,5 +118,11 @@
     "key": "77",
     "expirydate": "18-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7ace869ee8717082",
+    "key": "@FANDOUQHQ",
+    "expirydate": "18-10-2025",
+    "Allowoffline": false
   }
 ]
