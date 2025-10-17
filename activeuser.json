@@ -142,5 +142,11 @@
     "key": "2243033240",
     "expirydate": "18-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "62292555cd03889a",
+    "key": "ESN",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
