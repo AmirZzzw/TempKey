@@ -94,5 +94,11 @@
     "key": "dldbcdjshscsc",
     "expirydate": "18-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "08a7b948a1faf9c3",
+    "key": "Javat",
+    "expirydate": "18-10-2025",
+    "Allowoffline": false
   }
 ]
