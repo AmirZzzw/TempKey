@@ -130,5 +130,11 @@
     "key": "Amsmsmsn",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3aa7cb4e7e39cc12",
+    "key": "Abol1389",
+    "expirydate": "18-10-2025",
+    "Allowoffline": false
   }
 ]
