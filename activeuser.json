@@ -154,5 +154,11 @@
     "key": "MIKAIL",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d7611e87ab03c900",
+    "key": "AMIRGOD001",
+    "expirydate": "18-10-2025",
+    "Allowoffline": false
   }
 ]
