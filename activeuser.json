@@ -148,5 +148,11 @@
     "key": "ESN",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "706d3ecd82b939bd",
+    "key": "MIKAIL",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
