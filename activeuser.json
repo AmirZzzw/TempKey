@@ -172,5 +172,11 @@
     "key": "sbdkvdbdkdceh12",
     "expirydate": "19-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5f442625269d14d0",
+    "key": "Yama",
+    "expirydate": "20-10-2025",
+    "Allowoffline": false
   }
 ]
