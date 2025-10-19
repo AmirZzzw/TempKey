@@ -178,5 +178,11 @@
     "key": "Yama",
     "expirydate": "20-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8cb040098eaf2297",
+    "key": "@andezin_ff",
+    "expirydate": "20-10-2025",
+    "Allowoffline": false
   }
 ]
