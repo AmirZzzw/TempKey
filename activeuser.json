@@ -88,5 +88,11 @@
     "key": "MIKAIL",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8cb040098eaf2297",
+    "key": "@andezin_ff",
+    "expirydate": "24-10-2025",
+    "Allowoffline": false
   }
 ]
