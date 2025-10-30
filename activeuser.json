@@ -100,5 +100,11 @@
     "key": "Akhe man chekaram",
     "expirydate": "28-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c9b6a8c561ff6fee",
+    "key": "12",
+    "expirydate": "31-10-2025",
+    "Allowoffline": false
   }
 ]
