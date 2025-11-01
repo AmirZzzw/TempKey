@@ -106,5 +106,11 @@
     "key": "12",
     "expirydate": "31-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5c30693e3fe0e1f0",
+    "key": "dani007",
+    "expirydate": "02-11-2025",
+    "Allowoffline": false
   }
 ]
