@@ -124,5 +124,11 @@
     "key": "sddd",
     "expirydate": "13-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2f767a6fd0f9d7fd",
+    "key": "God",
+    "expirydate": "16-11-2025",
+    "Allowoffline": false
   }
 ]
