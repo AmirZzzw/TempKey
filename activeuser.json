@@ -136,5 +136,11 @@
     "key": "Kir",
     "expirydate": "18-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b0bea6b150a7a55e",
+    "key": "Scoopy",
+    "expirydate": "20-11-2025",
+    "Allowoffline": false
   }
 ]
