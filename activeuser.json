@@ -142,5 +142,11 @@
         "key": "c59950bba5957546",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "baa9292c8e66b850",
+        "key": "Arian",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
