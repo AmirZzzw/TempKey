@@ -160,5 +160,11 @@
     "key": "Amirzx13",
     "expirydate": "22-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d1826b609cb4a872",
+    "key": "Aliking",
+    "expirydate": "22-11-2025",
+    "Allowoffline": false
   }
 ]
