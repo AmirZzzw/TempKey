@@ -240,5 +240,11 @@
     "key": "علی",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Test",
+    "key": "Testreseler",
+    "expirydate": "26-11-2025",
+    "Allowoffline": false
   }
 ]
