@@ -246,5 +246,11 @@
     "key": "Testreseler",
     "expirydate": "26-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Gsz",
+    "key": "Testeesw",
+    "expirydate": "25-12-2025",
+    "Allowoffline": false
   }
 ]
