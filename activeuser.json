@@ -300,5 +300,11 @@
     "key": "nima85",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "20c7346679463de9",
+    "key": "20c7346679463de9",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
