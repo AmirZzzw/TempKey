@@ -282,5 +282,11 @@
     "key": "Game5566",
     "expirydate": "30-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/support",
+    "key": "Nnn",
+    "expirydate": "30-11-2025",
+    "Allowoffline": false
   }
 ]
