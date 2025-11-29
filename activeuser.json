@@ -288,5 +288,11 @@
     "key": "Nnn",
     "expirydate": "30-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "82c934c3ef7057ba",
+    "key": "BOOOO",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
