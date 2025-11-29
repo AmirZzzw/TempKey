@@ -294,5 +294,11 @@
     "key": "BOOOO",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "90a0ee628ec6d78a",
+    "key": "nima85",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
