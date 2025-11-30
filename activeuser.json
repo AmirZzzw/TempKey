@@ -338,12 +338,6 @@
     "Allowoffline": false
   },
   {
-    "device_id": "/info",
-    "key": "{ir_Matin}",
-    "expirydate": "01-12-2025",
-    "Allowoffline": false
-  },
-  {
     "device_id": "5262636363637",
     "key": "Mmd",
     "expirydate": "01-12-2025",
@@ -364,6 +358,12 @@
   {
     "device_id": "Test28x",
     "key": "Test28xu",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "1233d9a0ba0891bc",
+    "key": "{ir_Matin}",
     "expirydate": "01-12-2025",
     "Allowoffline": false
   }
