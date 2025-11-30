@@ -330,5 +330,11 @@
     "key": "@ARTAFF",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "PC",
+    "key": "GG",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
