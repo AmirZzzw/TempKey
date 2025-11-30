@@ -372,5 +372,11 @@
     "key": "تست",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Tetxyec",
+    "key": "Tets7wx",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
