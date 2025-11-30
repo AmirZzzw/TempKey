@@ -384,5 +384,11 @@
     "key": "Twtx3",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "72gxex",
+    "key": "Testcwx",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
