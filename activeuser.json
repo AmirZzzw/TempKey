@@ -324,5 +324,11 @@
     "key": "Horaz",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "70276132b1b25345",
+    "key": "@ARTAFF",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
