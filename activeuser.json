@@ -312,5 +312,11 @@
     "key": "Mahdi",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7e886756dd2f72ef",
+    "key": "Egoist",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
