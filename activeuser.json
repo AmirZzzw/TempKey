@@ -306,5 +306,11 @@
     "key": "20c7346679463de9",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1ba921b3f1c5a6c4",
+    "key": "Mahdi",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
