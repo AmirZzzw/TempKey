@@ -390,5 +390,11 @@
     "key": "Testcwx",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7wgzu2x",
+    "key": "Tezt3c3",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
