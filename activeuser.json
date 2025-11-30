@@ -336,11 +336,5 @@
     "key": "GG",
     "expirydate": "01-12-2025",
     "Allowoffline": false
-  },
-  {
-    "device_id": "30",
-    "key": "Testdel",
-    "expirydate": "30-12-2025",
-    "Allowoffline": false
   }
 ]
