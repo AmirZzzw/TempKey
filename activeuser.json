@@ -360,5 +360,11 @@
     "key": "Test1773",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Test28x",
+    "key": "Test28xu",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
