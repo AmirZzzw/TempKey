@@ -378,5 +378,11 @@
     "key": "Tets7wx",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Eugx3f",
+    "key": "Twtx3",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
