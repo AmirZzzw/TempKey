@@ -336,5 +336,11 @@
     "key": "GG",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/info",
+    "key": "{ir_Matin}",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
