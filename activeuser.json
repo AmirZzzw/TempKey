@@ -318,5 +318,11 @@
     "key": "Egoist",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "10173453196",
+    "key": "Horaz",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
