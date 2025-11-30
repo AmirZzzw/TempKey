@@ -396,5 +396,11 @@
     "key": "Tezt3c3",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "82hz",
+    "key": "هف",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
