@@ -366,5 +366,11 @@
     "key": "{ir_Matin}",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Tegs7wf",
+    "key": "تست",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
