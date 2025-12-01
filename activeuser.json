@@ -408,5 +408,11 @@
     "key": "Mahdiar",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "29027f370e2703ee",
+    "key": "141423",
+    "expirydate": "02-12-2025",
+    "Allowoffline": false
   }
 ]
