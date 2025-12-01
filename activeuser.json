@@ -127,13 +127,6 @@
     "username": "Test11"
   },
   {
-    "device_id": "Test77",
-    "key": "Test77",
-    "expirydate": "24-12-2025",
-    "Allowoffline": false,
-    "username": "Test77"
-  },
-  {
     "device_id": "Test88",
     "key": "Test88",
     "expirydate": "03-01-2026",
