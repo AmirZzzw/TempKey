@@ -414,5 +414,11 @@
     "key": "141423",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8f20e8b8b08afd42",
+    "key": "OWPW9814",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
