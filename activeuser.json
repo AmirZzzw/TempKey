@@ -173,5 +173,11 @@
     "key": "01623f91a9da6bbf",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "fff3380cddd086d3",
+    "key": "AMN",
+    "expirydate": "02-12-2025",
+    "Allowoffline": false
   }
 ]
