@@ -432,5 +432,11 @@
     "key": "تیتی",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Jj",
+    "key": "Bb",
+    "expirydate": "02-12-2025",
+    "Allowoffline": false
   }
 ]
