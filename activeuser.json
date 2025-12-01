@@ -426,5 +426,11 @@
     "key": "Yegd",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "تیت",
+    "key": "تیای",
+    "expirydate": "02-12-2025",
+    "Allowoffline": false
   }
 ]
