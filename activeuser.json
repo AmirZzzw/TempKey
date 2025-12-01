@@ -172,5 +172,11 @@
     "key": "AMN",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "63b868c95a703489",
+    "key": "GOD10",
+    "expirydate": "03-12-2025",
+    "Allowoffline": false
   }
 ]
