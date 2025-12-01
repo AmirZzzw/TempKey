@@ -432,5 +432,11 @@
     "key": "تیای",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "تیدیت",
+    "key": "دیدی",
+    "expirydate": "08-12-2025",
+    "Allowoffline": false
   }
 ]
