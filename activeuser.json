@@ -402,5 +402,11 @@
     "key": "علیرضا",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8a0c31719b3c5149",
+    "key": "Mahdiar",
+    "expirydate": "02-12-2025",
+    "Allowoffline": false
   }
 ]
