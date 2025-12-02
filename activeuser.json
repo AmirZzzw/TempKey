@@ -136,5 +136,11 @@
     "key": "GOD10",
     "expirydate": "03-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5930b3ad3dc72af7",
+    "key": "4H7HW1",
+    "expirydate": "03-12-2025",
+    "Allowoffline": false
   }
 ]
