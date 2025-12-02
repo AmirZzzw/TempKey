@@ -172,5 +172,11 @@
     "key": "@ARTAFF",
     "expirydate": "03-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "90a0ee628ec6d78a",
+    "key": "nima88",
+    "expirydate": "03-12-2025",
+    "Allowoffline": false
   }
 ]
