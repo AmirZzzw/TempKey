@@ -148,11 +148,5 @@
     "key": "DANI",
     "expirydate": "03-12-2025",
     "Allowoffline": false
-  },
-  {
-    "device_id": "S",
-    "key": "N",
-    "expirydate": "03-12-2025",
-    "Allowoffline": false
   }
 ]
