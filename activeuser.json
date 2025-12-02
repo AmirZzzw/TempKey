@@ -142,5 +142,11 @@
     "key": "4H7HW1",
     "expirydate": "03-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "تو",
+    "key": "تو",
+    "expirydate": "03-12-2025",
+    "Allowoffline": false
   }
 ]
