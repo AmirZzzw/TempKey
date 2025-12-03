@@ -142,5 +142,11 @@
     "key": "MMD",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1233d9a0ba0891bc",
+    "key": "Matin321",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
