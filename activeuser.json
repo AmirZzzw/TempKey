@@ -166,11 +166,5 @@
     "key": "WELCOME",
     "expirydate": "05-12-2025",
     "Allowoffline": false
-  },
-  {
-    "device_id": "تت",
-    "key": "تت",
-    "expirydate": "06-12-2025",
-    "Allowoffline": false
   }
 ]
