@@ -160,5 +160,11 @@
     "key": "Password",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "بیا داش",
+    "key": "WELCOME",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
