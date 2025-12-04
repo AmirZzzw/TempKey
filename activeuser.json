@@ -148,23 +148,5 @@
     "key": "Matin321",
     "expirydate": "31-12-9999",
     "Allowoffline": false
-  },
-  {
-    "device_id": "90a0ee628ec6d78a",
-    "key": "YTFF",
-    "expirydate": "05-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "8a0c31719b3c5149",
-    "key": "Password",
-    "expirydate": "05-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "بیا داش",
-    "key": "WELCOME",
-    "expirydate": "05-12-2025",
-    "Allowoffline": false
   }
 ]
