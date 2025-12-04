@@ -154,11 +154,5 @@
     "key": "YTFF",
     "expirydate": "05-12-2025",
     "Allowoffline": false
-  },
-  {
-    "device_id": "دد",
-    "key": "دد",
-    "expirydate": "31-12-9999",
-    "Allowoffline": false
   }
 ]
