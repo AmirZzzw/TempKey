@@ -160,5 +160,11 @@
     "key": "MmD-SaE",
     "expirydate": "06-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f0234baba777a25a",
+    "key": "AVA1390",
+    "expirydate": "07-12-2025",
+    "Allowoffline": false
   }
 ]
