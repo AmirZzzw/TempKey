@@ -154,5 +154,11 @@
     "key": "AVA1390",
     "expirydate": "07-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f4a5fafe1d33195f",
+    "key": "asa",
+    "expirydate": "07-12-2025",
+    "Allowoffline": false
   }
 ]
