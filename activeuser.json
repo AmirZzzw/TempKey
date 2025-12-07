@@ -160,5 +160,11 @@
     "key": "asa",
     "expirydate": "07-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "46b23123feb2d5a2",
+    "key": "DANI",
+    "expirydate": "09-12-2025",
+    "Allowoffline": false
   }
 ]
