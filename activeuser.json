@@ -154,5 +154,11 @@
     "key": "DANI",
     "expirydate": "09-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7ae263fd55fa58aa",
+    "key": "CWEXSX",
+    "expirydate": "09-12-2025",
+    "Allowoffline": false
   }
 ]
