@@ -160,5 +160,11 @@
     "key": "CWEXSX",
     "expirydate": "09-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "12904394868",
+    "key": "147258369",
+    "expirydate": "10-12-2025",
+    "Allowoffline": false
   }
 ]
