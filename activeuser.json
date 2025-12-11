@@ -148,23 +148,5 @@
     "key": "Matin321",
     "expirydate": "31-12-9999",
     "Allowoffline": false
-  },
-  {
-    "device_id": "46b23123feb2d5a2",
-    "key": "DANI",
-    "expirydate": "09-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "7ae263fd55fa58aa",
-    "key": "CWEXSX",
-    "expirydate": "09-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "12904394868",
-    "key": "147258369",
-    "expirydate": "10-12-2025",
-    "Allowoffline": false
   }
 ]
