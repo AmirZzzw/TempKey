@@ -148,5 +148,11 @@
     "key": "Matin321",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e626b5e1dd791f4d",
+    "key": "reza",
+    "expirydate": "14-12-2025",
+    "Allowoffline": false
   }
 ]
