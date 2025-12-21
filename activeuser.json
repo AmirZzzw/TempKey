@@ -148,5 +148,11 @@
     "key": "Matin321",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6b538f98e9b38152",
+    "key": "AMIR_sigma_444",
+    "expirydate": "20-01-2026",
+    "Allowoffline": false
   }
 ]
