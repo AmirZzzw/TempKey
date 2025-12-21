@@ -148,11 +148,5 @@
     "key": "Matin321",
     "expirydate": "31-12-9999",
     "Allowoffline": false
-  },
-  {
-    "device_id": "39101e26f629a1ea",
-    "key": "Tanjiro",
-    "expirydate": "21-12-2025",
-    "Allowoffline": false
   }
 ]
