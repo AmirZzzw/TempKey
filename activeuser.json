@@ -166,5 +166,11 @@
     "key": "BENIAM11",
     "expirydate": "20-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d4b1c382827d5910",
+    "key": "Beni11",
+    "expirydate": "20-01-2026",
+    "Allowoffline": false
   }
 ]
