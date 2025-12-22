@@ -172,5 +172,11 @@
     "key": "Beni11",
     "expirydate": "20-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ef08aa93fd99dd6f",
+    "key": "Meraj_shf4",
+    "expirydate": "21-01-2026",
+    "Allowoffline": false
   }
 ]
