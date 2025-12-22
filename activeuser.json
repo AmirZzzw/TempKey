@@ -184,5 +184,11 @@
     "key": "359074fd34545b58",
     "expirydate": "21-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e0e20ba089d62945",
+    "key": "IR_BOXVOOD",
+    "expirydate": "21-01-2026",
+    "Allowoffline": false
   }
 ]
