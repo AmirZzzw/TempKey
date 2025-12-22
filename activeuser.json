@@ -196,5 +196,11 @@
     "key": "TryTest",
     "expirydate": "23-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "dff16597fc3ee327",
+    "key": "iloy_ff",
+    "expirydate": "21-01-2026",
+    "Allowoffline": false
   }
 ]
