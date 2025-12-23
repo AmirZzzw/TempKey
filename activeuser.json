@@ -208,5 +208,11 @@
     "key": "ErFaN",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "72e4565b96032b40",
+    "key": "Mehdi01",
+    "expirydate": "22-01-2026",
+    "Allowoffline": false
   }
 ]
