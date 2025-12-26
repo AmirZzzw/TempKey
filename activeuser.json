@@ -214,23 +214,5 @@
     "key": "Mehdi01",
     "expirydate": "22-01-2026",
     "Allowoffline": false
-  },
-  {
-    "device_id": "f0234baba777a25a",
-    "key": "amir1390",
-    "expirydate": "25-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "c787ded090b02f14",
-    "key": "darkhead",
-    "expirydate": "25-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "c787ded090b02f14",
-    "key": "gojo",
-    "expirydate": "26-12-2025",
-    "Allowoffline": false
   }
 ]
