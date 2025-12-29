@@ -232,5 +232,11 @@
     "key": "danioo",
     "expirydate": "30-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "a37530e9344843b0",
+    "key": "a37530e9344843b0",
+    "expirydate": "30-12-2025",
+    "Allowoffline": false
   }
 ]
