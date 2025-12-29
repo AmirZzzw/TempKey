@@ -226,5 +226,11 @@
     "key": "m13901390",
     "expirydate": "30-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "555e094257053999",
+    "key": "danioo",
+    "expirydate": "30-12-2025",
+    "Allowoffline": false
   }
 ]
