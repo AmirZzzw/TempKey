@@ -214,29 +214,5 @@
     "key": "Mehdi01",
     "expirydate": "22-01-2026",
     "Allowoffline": false
-  },
-  {
-    "device_id": "Alireza",
-    "key": "Alireza",
-    "expirydate": "30-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "cf769ff2a8ae4f10",
-    "key": "m13901390",
-    "expirydate": "30-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "555e094257053999",
-    "key": "danioo",
-    "expirydate": "30-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "a37530e9344843b0",
-    "key": "a37530e9344843b0",
-    "expirydate": "30-12-2025",
-    "Allowoffline": false
   }
 ]
