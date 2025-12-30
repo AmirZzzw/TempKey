@@ -214,5 +214,11 @@
     "key": "Mehdi01",
     "expirydate": "22-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Samsung s21 Fe",
+    "key": "Parsa710",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
