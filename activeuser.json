@@ -220,5 +220,11 @@
     "key": "Parsa710",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f0234baba777a25a",
+    "key": "MRAMIR",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
