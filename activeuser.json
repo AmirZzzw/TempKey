@@ -220,5 +220,11 @@
     "key": "MR",
     "expirydate": "09-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8cb040098eaf2297",
+    "key": "sjsbcsvsjsvs xs",
+    "expirydate": "03-01-2026",
+    "Allowoffline": false
   }
 ]
