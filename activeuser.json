@@ -220,23 +220,5 @@
     "key": "علی",
     "expirydate": "31-12-9999",
     "Allowoffline": false
-  },
-  {
-    "device_id": "7350969631",
-    "key": "K² MALAVAN",
-    "expirydate": "06-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "a45007d6c3b6197f",
-    "key": "Ytp",
-    "expirydate": "06-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "659f754b14a6389d",
-    "key": "12345678900",
-    "expirydate": "06-01-2026",
-    "Allowoffline": false
   }
 ]
