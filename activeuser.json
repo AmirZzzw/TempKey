@@ -226,5 +226,11 @@
     "key": "12345678900",
     "expirydate": "06-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7350969631",
+    "key": "K² MALAVAN",
+    "expirydate": "06-01-2026",
+    "Allowoffline": false
   }
 ]
