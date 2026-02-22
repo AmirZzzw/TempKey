@@ -214,5 +214,11 @@
     "key": "hhMorningh",
     "expirydate": "22-03-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b975dc805f8b0909",
+    "key": "123456",
+    "expirydate": "23-02-2026",
+    "Allowoffline": false
   }
 ]
