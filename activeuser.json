@@ -220,5 +220,11 @@
     "key": "123456",
     "expirydate": "23-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c03e91cfe37b356b",
+    "key": "STORM",
+    "expirydate": "25-02-2026",
+    "Allowoffline": false
   }
 ]
