@@ -226,5 +226,11 @@
     "key": "STORM",
     "expirydate": "25-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "39101e26f629a1ea",
+    "key": "Kkk",
+    "expirydate": "27-02-2026",
+    "Allowoffline": false
   }
 ]
