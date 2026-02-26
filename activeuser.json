@@ -238,5 +238,11 @@
     "key": "Zuma",
     "expirydate": "27-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "cfe7b773710e92f2",
+    "key": "FighrerFF",
+    "expirydate": "28-03-2026",
+    "Allowoffline": false
   }
 ]
