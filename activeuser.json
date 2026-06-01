@@ -250,5 +250,11 @@
     "key": "SidkaTest1",
     "expirydate": "02-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "34e28c9b5551f2d2",
+    "key": "@QanIOI",
+    "expirydate": "02-06-2026",
+    "Allowoffline": false
   }
 ]
