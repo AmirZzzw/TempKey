@@ -256,5 +256,11 @@
     "key": "@QanIOI",
     "expirydate": "02-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1e01dfacb28a4c36",
+    "key": "MR JAVAD",
+    "expirydate": "03-06-2026",
+    "Allowoffline": false
   }
 ]
