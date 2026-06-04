@@ -262,5 +262,11 @@
     "key": "MR JAVAD",
     "expirydate": "03-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "SidkaTest2",
+    "key": "SidkaTest2",
+    "expirydate": "05-06-2026",
+    "Allowoffline": false
   }
 ]
