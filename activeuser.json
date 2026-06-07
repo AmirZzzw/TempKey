@@ -138,12 +138,6 @@
     "Allowoffline": false
   },
   {
-    "device_id": "a90c2f7e286a1cb3",
-    "key": "iswdrai_42288",
-    "expirydate": "19-02-2026",
-    "Allowoffline": false
-  },
-  {
     "device_id": "7f0eb4176e9c4497",
     "key": "ErFaN",
     "expirydate": "31-12-9999",
@@ -153,12 +147,6 @@
     "device_id": "b00fef63634d524e",
     "key": "علی",
     "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "73fd9445af1b6a8d",
-    "key": "73fd9445af1b6a8d",
-    "expirydate": "21-02-2026",
     "Allowoffline": false
   },
   {
@@ -177,108 +165,6 @@
     "device_id": "52eabc6232b240d6",
     "key": "abbas",
     "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "afe0d87e59329d02",
-    "key": "T4X",
-    "expirydate": "16-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "0d43991a17eca80d",
-    "key": "0d43991a17eca80d",
-    "expirydate": "16-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "amir1390",
-    "key": "amir1390",
-    "expirydate": "19-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "f0234baba777a25a",
-    "key": "amir399",
-    "expirydate": "19-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "f0234baba777a25a",
-    "key": "amir3939",
-    "expirydate": "20-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "4b1d17b751b43bb7",
-    "key": "hhMorningh",
-    "expirydate": "22-03-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "b975dc805f8b0909",
-    "key": "123456",
-    "expirydate": "23-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "c03e91cfe37b356b",
-    "key": "STORM",
-    "expirydate": "25-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "39101e26f629a1ea",
-    "key": "Kkk",
-    "expirydate": "27-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "34e28c9b5551f2d2",
-    "key": "Zuma",
-    "expirydate": "27-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "cfe7b773710e92f2",
-    "key": "FighrerFF",
-    "expirydate": "28-03-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "SidkaTest1",
-    "key": "SidkaTest1",
-    "expirydate": "02-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "34e28c9b5551f2d2",
-    "key": "@QanIOI",
-    "expirydate": "02-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "1e01dfacb28a4c36",
-    "key": "MR JAVAD",
-    "expirydate": "03-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "SidkaTest2",
-    "key": "SidkaTest2",
-    "expirydate": "05-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "a2d9e2cebfcabab9",
-    "key": "HAMID",
-    "expirydate": "07-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Mmd",
-    "key": "f0234baba777a25a",
-    "expirydate": "07-06-2026",
     "Allowoffline": false
   }
 ]
