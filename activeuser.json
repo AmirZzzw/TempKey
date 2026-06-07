@@ -172,5 +172,11 @@
     "key": "f0234baba777a25a",
     "expirydate": "08-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f0234baba777a25a",
+    "key": "Hajamir2020",
+    "expirydate": "09-06-2026",
+    "Allowoffline": false
   }
 ]
