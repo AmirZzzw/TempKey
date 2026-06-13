@@ -178,5 +178,11 @@
     "key": "Hajamir2020",
     "expirydate": "09-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "cfe7b773710e92f2",
+    "key": "cfe7b773710e92f2",
+    "expriydate": "12-12-9999",
+    "Allowofline": false
   }
 ]
