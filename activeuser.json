@@ -220,5 +220,11 @@
     "key": "dani0078",
     "expirydate": "20-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3c49f99458f3834c",
+    "key": "ssdd",
+    "expirydate": "21-06-2026",
+    "Allowoffline": false
   }
 ]
