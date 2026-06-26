@@ -232,5 +232,11 @@
     "key": "2b52a08fb045b928",
     "expirydate": "30-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "344702126cadc2ca",
+    "key": "Sololeveling",
+    "expirydate": "27-6-2026",
+    "Allowoffline" false
   }
 ]
