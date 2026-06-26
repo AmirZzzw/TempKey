@@ -226,5 +226,11 @@
     "key": "ssdd",
     "expirydate": "21-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2b52a08fb045b928",
+    "key": "2b52a08fb045b928",
+    "expirydate": "27-6-2026",
+    "Allowoffline": false
   }
 ]
