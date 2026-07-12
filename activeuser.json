@@ -244,5 +244,11 @@
     "key": "danial88",
     "expirydate": "13-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "39101e26f629a1ea",
+    "key": "1",
+    "expirydate": "13-07-2026",
+    "Allowoffline": false
   }
 ]
