@@ -256,5 +256,11 @@
     "key": "Armin1392",
     "expirydate": "13-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3f9c52427cbe857d",
+    "key": "3f9c52427cbe857d",
+    "expirydate": "13-07-2026",
+    "Allowoffline": false
   }
 ]
