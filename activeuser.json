@@ -250,5 +250,11 @@
     "key": "1",
     "expirydate": "13-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "a0585f03b107ba0b",
+    "key": "Armin1392",
+    "expirydate": "13-07-2026",
+    "Allowoffline": false
   }
 ]
