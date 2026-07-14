@@ -274,5 +274,11 @@
     "key": "danialgh",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3149fcf628ead2da",
+    "key": "Masoudmm080",
+    "expirydate": "15-07-2026",
+    "Allowoffline": false
   }
 ]
