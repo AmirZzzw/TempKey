@@ -292,5 +292,11 @@
     "key": "armingh",
     "expirydate": "15-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "aa07403bc8e60e01",
+    "key": "Amir21",
+    "expirydate": "16-07-2026",
+    "Allowoffline": false
   }
 ]
