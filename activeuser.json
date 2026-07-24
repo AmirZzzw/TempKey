@@ -310,5 +310,11 @@
     "key": "Roham",
     "expirydate": "25-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3c49f99458f3834c",
+    "key": "sg",
+    "expirydate": "25-07-2026",
+    "Allowoffline": false
   }
 ]
