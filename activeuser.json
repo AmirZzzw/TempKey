@@ -316,5 +316,11 @@
     "key": "sg",
     "expirydate": "25-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "80ef24e275503c79",
+    "key": "amir2000",
+    "expirydate": "26-07-2026",
+    "Allowoffline": false
   }
 ]
