@@ -322,5 +322,11 @@
     "key": "amir2000",
     "expirydate": "26-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3c49f99458f3834c",
+    "key": "cg",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
