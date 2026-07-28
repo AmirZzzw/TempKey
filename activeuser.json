@@ -328,5 +328,11 @@
     "key": "cg",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "aa07403bc8e60e01",
+    "key": "D",
+    "expirydate": "30-07-2026",
+    "Allowoffline": false
   }
 ]
