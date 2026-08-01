@@ -340,5 +340,11 @@
     "key": "vhhfddcv",
     "expirydate": "01-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "39101e26f629a1ea",
+    "key": "44",
+    "expirydate": "03-08-2026",
+    "Allowoffline": false
   }
 ]
