@@ -346,5 +346,11 @@
     "key": "44",
     "expirydate": "03-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b5818c67f67a778d",
+    "key": "VOAQQF",
+    "expirydate": "09-08-2026",
+    "Allowoffline": false
   }
 ]
