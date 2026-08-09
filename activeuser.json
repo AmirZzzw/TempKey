@@ -352,5 +352,11 @@
     "key": "VOAQQF",
     "expirydate": "10-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "cfe7b773710e92f2",
+    "key": "Nima_8813",
+    "expirydate": "10-08-2026",
+    "Allowoffline": false
   }
 ]
