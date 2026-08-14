@@ -181,12 +181,6 @@
   },
   {
     "device_id": "3c49f99458f3834c",
-    "key": "danialgh",
-    "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "3c49f99458f3834c",
     "key": "cg",
     "expirydate": "31-12-9999",
     "Allowoffline": false
@@ -195,6 +189,12 @@
     "device_id": "2421b4b7d1731438",
     "key": "ppr",
     "expirydate": "14-08-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "3c49f99458f3834c",
+    "key": "danialgh",
+    "expirydate": "31-12-9999",
     "Allowoffline": false
   }
 ]
