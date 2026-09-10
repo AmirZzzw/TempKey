@@ -190,5 +190,11 @@
     "key": "danialgh",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "258f0b2ce5576cd6",
+    "key": "258f0b2ce5576cd6",
+    "expirydate": "12-09-2026",
+    "Allowoffline": false
   }
 ]
